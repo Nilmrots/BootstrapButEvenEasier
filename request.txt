@@ -9,9 +9,11 @@ yourimagehere.png
 Big Text to Appear Under Image
 
 Smaller Text to Appear Under Big Text
+This can be more than 1 line long.
 
 Type here what you want to be in section 1.
 
 Type here what you want to be in section 2.
 
 Continue typing in this format if you have more sections.
+You can have as many lines as you like in each section.
