@@ -1,4 +1,4 @@
-# Bootstrap for Dummies
+# Bootstrap but Even Easier
 
 Make a website without any HTML knowledge. Just write a text file with what you want on the website, run the Python file, and you have a Bootstrap website. This project was made based on the Bootstrap template "Freelancer".
 
